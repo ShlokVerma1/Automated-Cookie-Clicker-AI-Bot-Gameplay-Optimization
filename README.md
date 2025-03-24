@@ -1,0 +1,1 @@
+# Automated-Cookie-Clicker-AI-Bot-Gameplay-Optimization
