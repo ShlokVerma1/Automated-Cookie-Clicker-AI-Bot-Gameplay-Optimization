@@ -1,4 +1,4 @@
-# Automated-Cookie-Clicker-AI-Bot-Gameplay-Optimization
+# Automated Cookie Clicker AI Bot - Gameplay Optimization
 
 ## Overview
 
